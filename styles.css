@@ -1,8 +1,6 @@
-body {
-    background-color: black;
-}
 .center {
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 200vh; /* Set the height of the element to 100% of the viewport height */
 }
